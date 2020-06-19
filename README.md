@@ -3,8 +3,8 @@ A snake game made with JavaScript. This game only works on desktop browsers and 
 
 # Images
 ![Snake game gif](./images/snake-game.gif)
-![Snake game gif](./images/snake-desktop.png)
-![Snake game gif](./images/snake-game-board.png)
+![Snake game desktop](./images/snake-desktop.png)
+![Snake game board](./images/snake-game-board.png)
 
 # Things to do
 - Refactor main.js code.
