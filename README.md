@@ -1,5 +1,10 @@
 # snake
-A snake game made with JavaScript.
+A snake game made with JavaScript. This game only works on desktop browsers and not mobile.
+
+# Images
+![Snake game gif](./images/snake-game.gif)
+![Snake game gif](./images/snake-desktop.png)
+![Snake game gif](./images/snake-game-board.png)
 
 # Things to do
 - Refactor main.js code.
