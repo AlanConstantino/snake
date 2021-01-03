@@ -1,5 +1,7 @@
-# snake
+# [snake](https://snake.alanjc.com)
 A snake game made with JavaScript. This game only works on desktop browsers and not mobile.
+
+You can go [here](https://snake.alanjc.com) to play the game.
 
 # Images
 ![Snake game gif](./images/snake-game.gif)
